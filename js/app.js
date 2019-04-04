@@ -1,19 +1,30 @@
+var ex1 = 3,
+    ex2 = 'DHG18',
+    ex3 = '5',
+    ex4 = false,
+    ex5 = [
+      'vår',
+      'sommar',
+      'höst',
+      'vinter'
+    ];
 
+/*** UPPGIFT 1 ***/
+
+
+
+/*** UPPGIFT 2 ***/
 
 
 /*** UPPGIFT 3 - TA BORT DENNA KOMMENTAR DÅ DU BÖRJAR ****
 
-//tillägger en eventListener på elementet med id:n aniBtn
-document.getElementById('aniBtn').addEventListener('click', function() {
- //sparar det animerade elementet i en variabel
-  const box = document.querySelector('#box_1');
- //kollar om animateWidth finns i elmentet
+documen.getElementById('aniBtn').addEventListener('click', function() {
+
+  const box = document.querySelector('box_1');
   if(box.classList.contains('animateWidth')) {
-    //om, så raderar vi den
-    box.classList.remove('animateWidth');
+    box.classList.remove('animatewidth');
   } else {
-    //Tillägger klassen animateWidth till elementet med classList
-    box.classList.add('animateWidth');
+    box.classList.add('animateWidth);
   }
 });
 
