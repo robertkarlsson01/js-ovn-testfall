@@ -13,7 +13,7 @@
    7. Räkna med JS hur många tecken finns det i ex2
 3. Skriv i konsolen under UPPGIFT 2 i JS-filen :
    1. Vilken datatyp är variabeln ex5? vad visar konsolen och vad borde det vara?
-   2. hur många värden finns i ex4?
-   3. Skriv ut “Nu är det vår” så vår kommer från ex2 variabeln
+   2. hur många värden finns i ex5?
+   3. Skriv ut “Nu är det vår” så vår kommer från ex5 variabeln
    4. loopa igenom ex4 och skriv ut alla värden
 4. Korrigera koden i UPPGIFT 3. Använd dig av konsolen i dev tools och console.log för att skriva ut värden.
